@@ -31,5 +31,5 @@ Building modern, scalable applications with a focus on clean architecture and pe
 ## 🔗 Connect with Me
 
 * **Portfolio:** [SatyendraKumar.dev](link-to-your-new-portfolio.com)
-* **LinkedIn:** [Satyendra Kumar's LinkedIn]([https://www.linkedin.com/in/satyendra-kumar-176785265](https://www.linkedin.com/in/satyendra-kumar-176785205/))
+* **LinkedIn:** [Satyendra Kumar's LinkedIn](https://www.linkedin.com/in/satyendra-kumar-176785205/)
 * **Email:** [satyendrakumar6860@gmail.com](mailto:satyendrakumar6860@gmail.com)
