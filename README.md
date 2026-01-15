@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Satyendra Kumar
-### Frontend Developer | Aspiring Full Stack Engineer
+# 👋 Hi, I'm Satyendra Kumar  
+### Java & Spring Boot Developer | Backend & Cloud Enthusiast  
 
-Building modern, scalable applications with a focus on clean architecture and performance. I specialize in the MERN stack with strong foundational skills in **Java and Spring Boot**.
+Backend developer with hands-on experience in **Java, Spring Boot, JPA/Hibernate**, and RESTful APIs.  
+Actively working on deploying applications using **AWS services** and building production-ready systems.
+.
 
 ---
 
